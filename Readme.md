@@ -1,6 +1,6 @@
 # Current guitar pedal projects 
 
-Current count of pedals in this repo is something like 50.    Not doing too many more, though I have a FV-1 and a Daisy seed one I'm working on longer term, as well as clearing out the box of shame.  I have been stymied on a number of recent pedal builds testing out of box due to the rig I was using having some kind of bad wires, causing huge amounts of hum.    I reworked the testing rig and have now verified about 6 or 7 more in last week.
+Current count of pedals in this repo is something like 40.    Not doing too many more, though I have a FV-1 and a Daisy seed one I'm working on longer term, as well as clearing out the box of shame.  I have been stymied on a number of recent pedal builds testing out of box due to the rig I was using having some kind of bad wires, causing huge amounts of hum.    I reworked the testing rig and have now verified about 6 or 7 more in last week.
 
 Anyway, the requirements here are KICAD 7 or later.     Each subdir has a gerbers directory, which has the final set of gerbers used.    
 
@@ -62,18 +62,19 @@ now on the pedalboard.
 | Compressor/dynacomp-lm13700  | --- | N |
 | Chorus/littleangel | [littleangel](./Chorus/littleangel/littleangel.pdf) | Y |
 | Envelope/mutron | [mutron-v](./Envelope/mutron/mutron.pdf) | Y |
-| Overdrive/SFTii | [sftii](./Overdrive/SFTii/SFTii.pdf) | Y | 
-| Overdrive/triple_wreck | [triple_wreck](./Overdrive/triple_wreck/triple_wreck.pdf) | Y | 
-| Overdrive/ecstacy | [ecstacy](./Overdrive/ecstacy/ecstacy.pdf) | Y | 
 | Overdrive/badmonkey | [badmonkey](./Overdrive/badmonkey/badmonkey.pdf) | Y |
 | Overdrive/bsiab |  [bsiab](./Overdrive/bsiab/bsiab.pdf) | Y |
+| Overdrive/beod |  [beod](./Overdrive/beod/beod.pdf) | Y |
+| Overdrive/drboogie | ... | Y |
+| Overdrive/ecstacy | [ecstacy](./Overdrive/ecstacy/ecstacy.pdf) | Y | 
 | Overdrive/fatdrive | [fatdrive](./Overdrive/fatdrive/fatdrive.pdf)| Y |
-| Overdrive/tweed57 | [tweed57](./Overdrive/tweed57/tweed57.pdf)|Y|
-| Overdrive/timmy  | [timmy](./Overdrive/timmy/timmy.pdf) | Y |
 | Overdrive/KoT | [KoT](./Overdrive/KoT/KoT.pdf) | Y | 
 | Overdrive/ocd | [ocd](./Overdrive/ocd/ocd.pdf) | Y |
 | Overdrive/revv-g4 | [revv-g4](./Overdrive/revv-g4/revv-g4.pdf) | Y |
-| Overdrive/drboogie | ... | Y |
+| Overdrive/SFTii | [sftii](./Overdrive/SFTii/SFTii.pdf) | Y | 
+| Overdrive/timmy  | [timmy](./Overdrive/timmy/timmy.pdf) | Y |
+| Overdrive/triple_wreck | [triple_wreck](./Overdrive/triple_wreck/triple_wreck.pdf) | Y | 
+| Overdrive/tweed57 | [tweed57](./Overdrive/tweed57/tweed57.pdf)|Y|
 | Overdrive/umble | [umble](./Overdrive/umble/umble.pdf) | Y |
 | Equalizer/eq | [eq](./Equalizer/eq/eq.pdf) | Y | 
 
@@ -83,9 +84,8 @@ PCB builds in progress are
 *   Barbershop (redo)
 *   paisley
 *   plexidrive
-*   beod
-
 *   Klon
+
 *   phase45
 *   g2
 *   bluesdriver
